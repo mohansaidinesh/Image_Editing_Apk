@@ -1,2 +1,2 @@
 # Image_Editing_Apk
-Developed using Streamlit , Open CV and Pillow 
+### Image Segmentation Techniques like cropping an image ,rotate ,pencil sketch ,emboss and etc...,
